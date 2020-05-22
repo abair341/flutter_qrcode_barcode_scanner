@@ -1,3 +1,5 @@
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_qrcode_barcode_scanner/blob/master/QR_Code_Bar_Code.jpg?raw=true)
+
 # qr_scan_code
 
 A new Flutter project.
