@@ -1,4 +1,4 @@
-![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_qrcode_barcode_scanner/blob/master/QR_Code_Bar_Code.jpg?raw=true)
+![A Flutter Resources App using Futter ](https://github.com/abair341/flutter_table_json/blob/master/img.jpg?raw=true)
 
 # qr_scan_code
 
